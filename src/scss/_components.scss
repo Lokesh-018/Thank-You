@@ -71,8 +71,8 @@
 .img-back {
   position: relative;
   background-color: #ffa8dc;
-  height: 20rem;
-  width: 20rem;
+  height: 40rem;
+  width: 30rem;
   // border-radius: 50%;
 
   @media (max-width: 800px) {
@@ -89,8 +89,8 @@
 .bd-pic {
   @include position;
 
-  height: 83.33333333%;
-  width: 83.33333333%;
+  height: 100%;
+  width: 100%;
   overflow: hidden;
 
   border-color: #fff;

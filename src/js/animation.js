@@ -63,7 +63,7 @@ const transition = (currentScene) => {
 */
 
 export const animate = function () {
-  CTAtext.innerHTML = "Click the Light Bulb.";
+  CTAtext.innerHTML = "Click the Yes Button.";
 
   readMsg(blackText);
 
